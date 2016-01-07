@@ -1,0 +1,28 @@
+name: FamPath
+favicon: null
+layout_spectrum: 0.8100831320043653
+typography_spectrum: 0.7130979301873595
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.5009678739588708
+  lightness: 0.26473586657084525
+  saturation: 0.4547032059635967
+  rhythmicContrast: 0.7457950788084418
+purpose: []
